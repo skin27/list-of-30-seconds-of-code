@@ -1,3 +1,5 @@
+![30 seconds](https://github.com/skin27/list-of-30-seconds-of-code/blob/master/30seconds-logo-red.png) 
+
 # list of 30 seconds of code
 
 First started for Javascript, a project to collect useful pieces of code (aka snippets). All these snippets have in
