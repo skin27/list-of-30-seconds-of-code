@@ -22,6 +22,7 @@ Here is a curated list of code snippets lists.
 - [kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin)
 - [php](https://github.com/appzcoder/30-seconds-of-php-code)
 - [python](https://github.com/kriadmin/30-seconds-of-python-code)
+- [python 2](https://github.com/cclauss/Ten-lines-or-less)
 - [r](https://github.com/amrrs/30-seconds-of-r-code)
 - [ruby](https://github.com/florianjosefreheis/30-seconds-of-ruby)
 - [swift](https://github.com/elizabethsiegle/30-seconds-of-swift-code)
